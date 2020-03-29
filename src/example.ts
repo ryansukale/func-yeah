@@ -1,3 +1,3 @@
-const example = (name:string) => {
+export default example = (name: string) => {
   return `hello ${name}`;
-}
+};
