@@ -1,5 +1,1 @@
-"use strict";
-
-var example = function example(name) {
-  return "hello ".concat(name);
-};
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports["default"]=void 0;var _default=example=function example(a){return"hello ".concat(a)};exports["default"]=_default;
