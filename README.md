@@ -10,8 +10,9 @@ This library was built as part of my youtube tutorial series on functional progr
 yarn add func-yeah
 ```
 
-#### Available Types
+### Available Types
 
+#### Usage
 ```
 import Either from 'func-yeah/dist/Either';
 ```
@@ -24,8 +25,11 @@ import Either from 'func-yeah/dist/Either';
 |Maybe          | [Intro](https://www.youtube.com/watch?v=1uNmsvBbQuw&list=PL3xLMxDtN7I4DCy7GAwlJXI4Ut7KmsBsa&index=5&t=0s)|
 |IO             | [Intro](https://www.youtube.com/watch?v=p2h6WHcV8CY&list=PL3xLMxDtN7I4DCy7GAwlJXI4Ut7KmsBsa&index=25&t=0s)|
 
-#### Operators
+----
 
+### Operators
+
+#### Usage
 ```
 import map from 'func-yeah/dist/operators/map';
 ```
