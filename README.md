@@ -4,7 +4,8 @@ func-yeah
 Bare bones implementation of javascript functional utilties. These will cover most of your use cases, or if you're just playing around.
 If you're looking for more comprehensive implementation, look at [Folktale](https://folktale.origamitower.com/) or [Fantasy-Land](https://github.com/fantasyland).
 
-This library was built as part of my youtube tutorial series on functional programming. - http://bit.ly/functional-programming-concepts
+> This library was built as part of my youtube tutorial series on functional programming.
+http://bit.ly/functional-programming-concepts
 
 ```
 yarn add func-yeah
