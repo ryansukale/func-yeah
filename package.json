@@ -1,8 +1,8 @@
 {
   "name": "func-yeah",
   "version": "0.0.1",
-  "description": "Simple functional utilities for javascript",
-  "main": "index.js",
+  "description": "Bare bones functional utilities for javascript",
+  "main": "Container.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d dist --extensions '.js'"
