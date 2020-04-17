@@ -1,11 +1,11 @@
 {
   "name": "func-yeah",
   "version": "0.0.1",
-  "description": "Functional utilities for javascript",
+  "description": "Simple functional utilities for javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d dist --extensions '.ts'"
+    "build": "babel src -d dist --extensions '.js'"
   },
   "repository": {
     "type": "git",
@@ -36,5 +36,9 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged --pattern 'src/**/*.ts'"
     }
+  },
+  "dependencies": {
+    "@ramda/compose": "^0.26.1",
+    "@ramda/curry": "^0.26.1"
   }
 }

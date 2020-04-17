@@ -1,0 +1,1 @@
+"use strict";var _curry=_interopRequireDefault(require("@ramda/curry"));Object.defineProperty(exports,"__esModule",{value:!0}),exports["default"]=void 0;function _interopRequireDefault(a){return a&&a.__esModule?a:{default:a}}var chain=(0,_curry["default"])(function(a,b){return b.map(a).join()}),_default=chain;exports["default"]=_default;

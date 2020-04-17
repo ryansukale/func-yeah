@@ -794,6 +794,16 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@ramda/compose@^0.26.1":
+  version "0.26.1"
+  resolved "https://registry.yarnpkg.com/@ramda/compose/-/compose-0.26.1.tgz#f7c4f90097b37d269e4ee8f9d38a72175c40797f"
+  integrity sha512-yu+1f2yVzXIBy8B/tgO4At3orWroaarfH7BK9hIHrAM0DzUbYpJWhtxOZ0UKhn97hEI5zUrhXNLmckAOjL31fw==
+
+"@ramda/curry@^0.26.1":
+  version "0.26.1"
+  resolved "https://registry.yarnpkg.com/@ramda/curry/-/curry-0.26.1.tgz#cf4820a9d94019552ff9a3bfd059061a4465719f"
+  integrity sha512-y6/0e6BuvHorBviD8E8fvBu/vjBWw52CbuZMrfWGVAzm8+cHcC7jHw7Iq3TNGu93LJjg7KKTgDjaNkXXWk5JpQ==
+
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
