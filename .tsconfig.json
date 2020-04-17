@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "noEmit": true,
+    "moduleResolution": "node",
+    "strict": true
+  },
+  "include": ["./src/**/*"]
+}
